@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Chills Constructed"
+  author: Scott Bannister and Tuomas Eerola
+  reader-mode: true
+  date: "6/4/2026"
+#  page-footer:
+#   cover-image: cover.jpg
+#  favicon: cover.jpg
+  site-url: https://github.com/tuomaseerola/chills_constructed
+  repo-url: https://github.com/tuomaseerola/chills_constructed
+  repo-branch: main
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - visualise.qmd
+fontsize: 12pt
+monofont: "Source Code Pro"
+monofontoptions: "Scale=0.7"
+
+format:
+  html:
+    theme:
+      - cosmo
+    code-link: true
+    author-meta: "Tuomas Eerola, Scott Bannister"
+#    toc: true
+#    toc-depth: 2
+#    toc-title: Contents
+#    toc-location: right-body
+#    include-in-header: "plausible.html"
+    callout-appearance: simple
+
+editor: source
