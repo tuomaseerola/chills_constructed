@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Chills Constructed",
+    "section": "",
+    "text": "0.1 Data\nData and analysis related to chills constructed project by Scott Bannister and Tuomas Eerola under the manuscript titled “Musical chills as constructed emotion: How to stop exploring and start explaining” (in prep.).\nThe data comes from manual encoding of papers dealing with chills since year xxxx. The format is …. and the file is chill_terminology.xls.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Data</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#visualisation",
+    "href": "index.html#visualisation",
+    "title": "Chills Constructed",
+    "section": "0.2 Visualisation",
+    "text": "0.2 Visualisation\n\nThe notebook called visualise creates the network visualisation of chill definitions, outcomes and symptoms.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Data</span>"
+    ]
+  },
+  {
+    "objectID": "visualise.html",
+    "href": "visualise.html",
+    "title": "2  Visualise",
+    "section": "",
+    "text": "Here …",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Visualise</span>"
+    ]
+  }
+]

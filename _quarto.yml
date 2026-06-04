@@ -20,7 +20,8 @@ book:
 fontsize: 12pt
 monofont: "Source Code Pro"
 monofontoptions: "Scale=0.7"
-
+with:
+  source: ./docs
 format:
   html:
     theme:
