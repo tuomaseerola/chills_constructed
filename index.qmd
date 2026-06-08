@@ -1,11 +1,12 @@
 
 Data and analysis related to chills constructed project by Scott Bannister and Tuomas Eerola under the manuscript titled "Musical chills as constructed emotion: How to stop exploring and start explaining" (in prep.). 
 
-## Data
+# Data
 
-The data comes from manual encoding of papers dealing with chills since year xxxx. The format is .... and the file is [`chill_terminology.xls`](data/chill_terminology.xls).
+The data comes from manual encoding of papers dealing with chills since year xxxx. The format is .... and the file is available as an Excel sheet titled [`chill_terminology.xls`](data/chill_terminology.xls).
 
-## Visualisation
+# Visualisation
 
-- The notebook called [visualise](visualise.html) creates the network visualisation of chill definitions, outcomes and symptoms.
+The notebook called [visualise.qmd](visualise.qmd) creates a network visualisation of chill definitions, affects and physiology (Figure X in manuscript).
 
+Body maps. 
