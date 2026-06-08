@@ -117,7 +117,8 @@ print(knitr::kable(cat_summary,digits=2))
 
 Visualise the co-occurrence of Terminology, Affect, and Physiology using a network graph.
 
-Principles:
+#### Principles:
+
 - The order of the nodes is now determined by frequency within each category. 
 - There is a filter to remove rare terms (<3).
 - "Not defined" is included as a node.

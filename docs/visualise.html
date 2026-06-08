@@ -631,7 +631,14 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </table></section></section><section id="visualise-as-network-graph" class="level2" data-number="3.2"><h2 data-number="3.2" class="anchored" data-anchor-id="visualise-as-network-graph">
 <span class="header-section-number">3.2</span> Visualise as network graph</h2>
 <p>Visualise the co-occurrence of Terminology, Affect, and Physiology using a network graph.</p>
-<p>Principles: - The order of the nodes is now determined by frequency within each category. - There is a filter to remove rare terms (&lt;3). - “Not defined” is included as a node. - Node positions can be made to be more organic, now rigid.</p>
+<section id="principles" class="level4" data-number="3.2.0.1"><h4 data-number="3.2.0.1" class="anchored" data-anchor-id="principles">
+<span class="header-section-number">3.2.0.1</span> Principles:</h4>
+<ul>
+<li>The order of the nodes is now determined by frequency within each category.</li>
+<li>There is a filter to remove rare terms (&lt;3).</li>
+<li>“Not defined” is included as a node.</li>
+<li>Node positions can be made to be more organic, now rigid.</li>
+</ul>
 <div class="cell">
 <details class="code-fold"><summary>Show the code</summary><div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8"><pre class="downlit sourceCode r code-with-copy"><code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://r.igraph.org/">igraph</a></span><span class="op">)</span></span>
 <span><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://ggraph.data-imaginist.com">ggraph</a></span><span class="op">)</span></span>
@@ -780,7 +787,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 
 
-</section></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+</section></section></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
     const anchorJS = new window.AnchorJS();
